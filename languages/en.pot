@@ -1,0 +1,154 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-10-23 14:38+0200\n"
+"PO-Revision-Date: 2020-10-23 14:39+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_attr_x;_nx\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:12
+msgid "Page Not Found"
+msgstr "Page Not Found TEST TRANSLATION"
+
+#: 404.php:13
+msgid "Unfortunately, the page you tried to reach does not exist."
+msgstr ""
+
+#: 404.php:19
+msgid "How about doing a search?"
+msgstr ""
+
+#: 404.php:21
+msgid "Latest Posts"
+msgstr ""
+
+#: archive.php:31 index.php:27
+msgid "<< Newer Posts"
+msgstr ""
+
+#: archive.php:34 index.php:30
+msgid "Older Posts >>"
+msgstr ""
+
+#: archive.php:41 general-template.php:32 page-about-us.php:26
+msgid "There's nothing yet to be displayed!"
+msgstr ""
+
+#: comments.php:34
+msgid "Leave a comment"
+msgstr ""
+
+#: comments.php:37
+#, php-format
+msgid "One reply on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:42
+#, php-format
+msgid "%1$s reply on &ldquo;%2$s&rdquo;"
+msgstr ""
+
+#: comments.php:74
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:75
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:127
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:25
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:26
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:58
+msgid "Home Page Sidebar"
+msgstr ""
+
+#: functions.php:60
+msgid "This is the home page sidebar. You can add your widgets here."
+msgstr ""
+
+#: functions.php:69
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:71
+msgid "This is the blog page sidebar. You can add your widgets here."
+msgstr ""
+
+#: functions.php:81 functions.php:92 functions.php:103
+msgid "Services 1"
+msgstr ""
+
+#: functions.php:83
+msgid "Service area 1"
+msgstr ""
+
+#: functions.php:94
+msgid "Service area 2"
+msgstr ""
+
+#: functions.php:105
+msgid "Service area 3"
+msgstr ""
+
+#: functions.php:115 functions.php:117
+msgid "Social Icons Widget"
+msgstr ""
+
+#: home-template.php:21 page-home.php:21
+msgid "Our Services"
+msgstr ""
+
+#: page-about-us.php:17
+msgid "Posted in"
+msgstr ""
+
+#: page-about-us.php:17
+msgid "by"
+msgstr ""
+
+#: page-about-us.php:18
+msgid "Categories"
+msgstr ""
+
+#: search.php:7
+msgid "Search results for: "
+msgstr ""
+
+#: search.php:23
+msgid "Previous"
+msgstr ""
+
+#: search.php:24
+msgid "Next"
+msgstr ""
+
+#: searchform.php:12
+msgid "Search &hellip;"
+msgstr ""
+
+#: single.php:14
+msgid "&laquo; %link"
+msgstr ""
+
+#: single.php:15
+msgid "%link &raquo;"
+msgstr ""

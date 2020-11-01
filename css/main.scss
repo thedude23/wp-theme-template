@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald:200,400,900');
+@import url('https://fonts.googleapis.com/css?family=Lato:400,900');
+
+
+/* For Gutenberg theme support */
+@media only screen and (min-width: 1140px) {
+    /* Full width images */
+    .alignfull, .alignwide {
+        margin-bottom: 2em;
+    }
+    .alignwide {
+        width: 75vw;
+        margin-left: 50%;
+        transform: translateX(-50%);
+    }
+    .alignfull {
+        width: 100vw;
+        margin-left: 50%;
+        transform: translateX(-50%);
+        /* max-width: none; */
+    }
+}
+
+
+/* Color palette for Gutenberg */
+.has-white-background-color {
+    background-color: white;
+}
+
+.has-white-color {
+    color: white;
+}
+
+.has-blood-red-background-color {
+    background-color: #b9121b;
+}
+
+.has-blood-red-color {
+    color: #b9121b;
+}
+
+
+/* Full width video (fitvid.js plugin is not working for some reason) */
+.is-type-video iframe {
+    width: 100% !important;
+    /* height: auto !important; */
+    height: 600px;
+}
+
+
+.main-menu ul li, 
+.footer-menu ul li {
+    display: inline;
+}
+
+/* Mobile menu */
+.wpr-icon-search {
+    display: none !important;
+}
+
+
+.align {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+}
